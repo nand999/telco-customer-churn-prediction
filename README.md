@@ -91,8 +91,8 @@ Customer churn (customers leaving a service) is a critical business challenge in
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd CUSTOMER-CHURN-PREDICTION-TELCO
+   git clone https://github.com/nand999/telco-customer-churn-prediction.git
+   cd telco-customer-churn-prediction
    ```
 
 2. **Install dependencies:**
